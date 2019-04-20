@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c2cc24c4-fe2a-4bda-afb7-191f823256aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esm2015/src/app/components/ngx-tweet.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/esm2015/src/app/components/ngx-tweet.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esm5/src/app/components/ngx-tweet.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/esm5/src/app/components/ngx-tweet.component.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fesm2015/ngx-tweet.js" beforeDir="false" afterPath="$PROJECT_DIR$/fesm2015/ngx-tweet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fesm5/ngx-tweet.js" beforeDir="false" afterPath="$PROJECT_DIR$/fesm5/ngx-tweet.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,18 +13,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/esm5/src/app/components/ngx-tweet.component.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
               <caret line="34" column="120" selection-start-line="34" selection-start-column="120" selection-end-line="34" selection-end-column="120" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/esm5/ngx-tweet.js">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -51,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fesm2015/ngx-tweet.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="415">
-              <caret line="109" column="118" selection-start-line="109" selection-start-column="118" selection-end-line="109" selection-end-column="118" />
+              <caret line="109" column="134" selection-start-line="109" selection-start-column="134" selection-end-line="109" selection-end-column="134" />
               <folding>
                 <element signature="e#0#57#0" expanded="true" />
               </folding>
@@ -71,10 +63,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/fesm2015/ngx-tweet.js" />
-        <option value="$PROJECT_DIR$/fesm5/ngx-tweet.js" />
-        <option value="$PROJECT_DIR$/esm2015/src/app/components/ngx-tweet.component.js" />
         <option value="$PROJECT_DIR$/esm5/src/app/components/ngx-tweet.component.js" />
+        <option value="$PROJECT_DIR$/esm2015/src/app/components/ngx-tweet.component.js" />
+        <option value="$PROJECT_DIR$/fesm5/ngx-tweet.js" />
+        <option value="$PROJECT_DIR$/fesm2015/ngx-tweet.js" />
       </list>
     </option>
   </component>
@@ -179,17 +171,18 @@
       <updated>1555432852976</updated>
       <workItem from="1555432854377" duration="1165000" />
       <workItem from="1555731142353" duration="541000" />
-      <workItem from="1555748413967" duration="83000" />
+      <workItem from="1555748413967" duration="665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1789000" />
+    <option name="totallyTimeSpent" value="2371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14407815" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14407815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -206,7 +199,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32985386" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -223,13 +216,20 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fesm2015/ngx-tweet.js">
+    <entry file="file://$PROJECT_DIR$/esm5/ngx-tweet.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esm5/src/app/components/ngx-tweet.component.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="109" column="118" selection-start-line="109" selection-start-column="118" selection-end-line="109" selection-end-column="118" />
-          <folding>
-            <element signature="e#0#57#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="495">
+          <caret line="34" column="120" selection-start-line="34" selection-start-column="120" selection-end-line="34" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esm2015/src/app/components/ngx-tweet.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="32" column="118" selection-start-line="32" selection-start-column="118" selection-end-line="32" selection-end-column="118" />
         </state>
       </provider>
     </entry>
@@ -243,20 +243,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/esm2015/src/app/components/ngx-tweet.component.js">
+    <entry file="file://$PROJECT_DIR$/fesm2015/ngx-tweet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="32" column="118" selection-start-line="32" selection-start-column="118" selection-end-line="32" selection-end-column="118" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esm5/ngx-tweet.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esm5/src/app/components/ngx-tweet.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="34" column="120" selection-start-line="34" selection-start-column="120" selection-end-line="34" selection-end-column="120" />
+        <state relative-caret-position="415">
+          <caret line="109" column="134" selection-start-line="109" selection-start-column="134" selection-end-line="109" selection-end-column="134" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

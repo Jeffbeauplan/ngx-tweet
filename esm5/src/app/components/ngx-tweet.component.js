@@ -32,7 +32,7 @@ var NgxTweetComponent = /** @class */ (function () {
             .loadScript()
             .subscribe(function (twitterData) {
             _this._updateTwitterScriptLoadingState();
-            twitterData.widgets.createTweet(_this.tweetId, _this._elementRef.nativeElement, {cards: 'hidden', height: '200', conversation: 'none' });
+            twitterData.widgets.createTweet(_this.tweetId, _this._elementRef.nativeElement, {cards: 'hidden', width: '300', conversation: 'none' });
         });
     };
     /**
