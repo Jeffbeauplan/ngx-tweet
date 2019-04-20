@@ -124,7 +124,7 @@ var NgxTweetComponent = /** @class */ (function () {
             .loadScript()
             .subscribe(function (twitterData) {
             _this._updateTwitterScriptLoadingState();
-            twitterData.widgets.createTweet(_this.tweetId, _this._elementRef.nativeElement, {cards: 'hidden', width: '400', conversation: 'none' });
+            twitterData.widgets.createTweet(_this.tweetId, _this._elementRef.nativeElement, {cards: 'hidden', conversation: 'none' });
         });
     };
     /**
