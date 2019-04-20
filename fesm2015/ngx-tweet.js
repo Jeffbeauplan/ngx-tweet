@@ -107,7 +107,7 @@ class NgxTweetComponent {
             .loadScript()
             .subscribe((twitterData) => {
             this._updateTwitterScriptLoadingState();
-            twitterData.widgets.createTweet(this.tweetId, this._elementRef.nativeElement, {cards: 'hidden',  width: '300' , conversation: 'none' });
+            twitterData.widgets.createTweet(this.tweetId, this._elementRef.nativeElement, {cards: 'hidden',  width: '400' , conversation: 'none' });
         });
     }
     /**
